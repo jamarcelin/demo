@@ -1,0 +1,89 @@
+
+/*
+Styles For Angular Material slider
+*/
+::ng-deep .mat-accent .mat-slider-thumb {
+    background-color: blue;
+}
+::ng-deep .mat-accent .mat-slider-thumb-label {
+    background-color: white;
+}
+::ng-deep .mat-accent .mat-slider-track-fill {
+    background-color: blue;
+}
+
+/*
+Styles For Angular Material Tile
+*/
+.results {
+   background-color: white;
+   overflow: auto;
+}
+
+/*
+Styles For Angular Material Card
+*/
+.example-card {
+  height: 200px;
+  overflow: auto;
+  background-color: rgb(6,12,233);
+}
+
+/*
+Styles For Angular Material Progress Spinner
+*/
+.example-margin {
+    color: rgb(6,12,233);
+}
+
+/*
+Styles For Angular Material Progress Spinner
+*/
+.uploader-status ::ng-deep .mat-progress-spinner circle, .mat-spinner circle {
+        stroke: rgb(6,12,233);
+    }
+
+/*
+Styles For Angular Material Default Tile
+*/
+mat-grid-tile  {
+  background: lightblue;
+  overflow: auto;
+}
+
+/*
+Styles For Angular Material Card Subtitle
+*/
+.subtitle {
+  color: white;
+  text-transform: capitalize;
+}
+
+/*
+Styles For WebApp Navigation Bar
+*/
+.topbar{
+  padding-top: 1%;
+  text-align: center;
+  height: 9%
+}
+
+/*
+Styles For Container
+*/
+.open-close-container {
+  border: 1px solid #dddddd;
+  margin-top: 1em;
+  padding: 20px 20px 0px 20px;
+  color: #000000;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+}
+``
+/*
+Styles For Title Results
+*/
+td {
+  height: 30%;
+}
